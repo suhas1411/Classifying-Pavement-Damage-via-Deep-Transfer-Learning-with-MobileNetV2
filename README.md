@@ -1,12 +1,3 @@
-Alright — here’s your **final GitHub README** for
-**Classifying Pavement Damage via Deep Transfer Learning with MobileNetV2**
-that combines:
-
-1. **A short overview** at the top for quick readers (recruiter-friendly).
-2. **A detailed section-by-section explanation** for developers and collaborators.
-
----
-
 # **Classifying Pavement Damage via Deep Transfer Learning with MobileNetV2**
 
 ## **🚀 Overview**
